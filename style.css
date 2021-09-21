@@ -1,0 +1,31 @@
+.body {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.form {
+	text-align: center;
+}
+
+.loginLink {
+	text-decoration: none;
+	color: blue;
+}
+
+form p {
+	margin: 10px 0;
+}
+
+.msg {
+	border: solid 2px yellow;
+}
+
+.col-6 {
+	margin-left: 15px;
+}
+
+table {
+	margin: 10px 0;
+}
